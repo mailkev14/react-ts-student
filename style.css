@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+
+body {
+  font-family: "Josefin Sans", cursive, Arial, Helvetica, sans-serif;
+}
+
+h1,
+p {
+  font-family: Lato;
+}
